@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "loglight",
+  "version": "1.0.0",
+  "description": "Loglight is a simple node server and web application that helps developers view and filter logs sent from their applications in real-time. It functions similarly to the console found in browser developer tools but is specifically designed for log messages.",
+  "main": "Loglight.js",
+  "scripts": {
+    "start": "node Loglight.js"
+  },
+  "keywords": [
+    "log",
+    "web-socket",
+    "debugger"
+  ],
+  "author": "Netanel Mizrahi",
+  "license": "(CC-BY-NC-4.0 OR Apache-2.0)",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
