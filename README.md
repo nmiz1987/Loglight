@@ -45,6 +45,7 @@ If you don't care about the category, you can add an empty string.
 
 In the "utils" folder you will find a file called "WebSocketProvider.tsx", copy-paste it to your application.
 This file is a React Context provider that contains all the required configurations ready to use.
+NOTE: If you aren't using the default port, You will need to update the port in the "WebSocketProvider.tsx" file.
 
 1. Install the [react-use-websocket](https://www.npmjs.com/package/react-use-websocket) package with the command `npm i react-use-websocket`.
 1. Wrap your application (NOT a specific component to avoid rendering) with the WebSocketProvider.
