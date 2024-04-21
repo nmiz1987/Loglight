@@ -2,8 +2,8 @@
 
 Loglight is a simple node server and web application that helps developers view and filter logs sent from their applications in real-time. It functions similarly to the console found in browser developer tools but is specifically designed for log messages.
 
-![all messages](https://github.com/nmiz1987/ws-server/blob/master/images/all-messages.png)
-![by category](https://github.com/nmiz1987/ws-server/blob/master/images/by-category.png)
+![all messages](/images/all-messages.png)
+![by category](/images/by-category.png)
 
 ## Features
 
